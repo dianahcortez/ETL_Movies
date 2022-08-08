@@ -13,4 +13,10 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 
 ## Results
 
+<img width="500" alt="movie_data postgreSQL" src="https://user-images.githubusercontent.com/104927745/183329357-2b9af83c-a52b-4862-920c-a2b363d6ca9c.PNG">
+
+<img width="500" alt="movies_query" src="https://user-images.githubusercontent.com/104927745/183329366-025ff364-46c8-4984-b667-acb2be2a62b8.PNG">
+
+<img width="500" alt="ratings_query" src="https://user-images.githubusercontent.com/104927745/183329370-645dd03f-4bbc-4c97-8f17-9269f545847a.PNG">
+
 ## Challenges
