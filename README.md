@@ -4,6 +4,14 @@
 
 Amazing Prime loves the dataset and wants to keep it updated on a daily basis. Britta needs your help to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. You’ll need to refactor the code from this module to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
 
+## Resources Used
+Python PostgreSQL CSV Files:
+- ratings.csv
+- movies_metadata.csv
+
+JSON Files:
+- wikipedia-movies.json
+
 ## Challenge Deliverables
 
 - Deliverable 1: Write an ETL function to read three data files
@@ -19,4 +27,3 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 
 <img width="500" alt="ratings_query" src="https://user-images.githubusercontent.com/104927745/183329370-645dd03f-4bbc-4c97-8f17-9269f545847a.PNG">
 
-## Challenges
